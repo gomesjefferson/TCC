@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "app",
-    "slug": "app",
+    "name": "App TCC",
+    "slug": "app-tcc",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -28,7 +28,6 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "owner": "nortetec",
     "description": "",
     "githubUrl": "https://github.com/Norte-Tecnologia/TCC"
   }
