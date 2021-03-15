@@ -28,6 +28,7 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
+    "owner": "nortetec",
     "description": "",
     "githubUrl": "https://github.com/Norte-Tecnologia/TCC"
   }
