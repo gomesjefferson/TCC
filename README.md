@@ -91,10 +91,17 @@ To get a local copy up and running follow these simple example steps.
 
 ### Pre-requisitos
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
+Para rodar este projeto é necessário ter instalado apenas o [Node.JS](https://nodejs.org/pt-br/)
+e após a instalação, rodar os comandos:
+
+* Para atualizar o npm *gerenciador de pacote*
   ```sh
   npm install npm@latest -g
+  ```
+  
+* Para instalar o Expo *Ferramenta para desenvolver em React-Native*
+  ```sh
+  npm install --global expo-cli
   ```
 
 ### Instalação
