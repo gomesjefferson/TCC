@@ -106,20 +106,14 @@ e após a instalação, rodar os comandos:
 
 ### Instalação
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clonar projeto
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/Norte-Tecnologia/TCC.git && cd TCC
    ```
-3. Install NPM packages
+2. Para instalar as dependencias do projeto.
    ```sh
    npm install
    ```
-4. Enter your API in `config.js`
-   ```JS
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
 
 
 
